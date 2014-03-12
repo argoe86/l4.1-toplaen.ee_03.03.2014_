@@ -1,0 +1,21 @@
+2013.01.31
+
+* New version of idCard.js (0.12)
+
+2012.03.09
+
+* Updated service_certs.crt file with new CA certificates
+
+2011.11.15
+
+* New version of idCard.js (0.11)
+
+2011.02.24
+
+* Fixed bug #1 (_KNOWN_BUGS.txt)
+
+2011.02.04
+
+* Previously java applet or IE activeX was used to sign - now idCard.js (javascript library to choose from available web signing plugins
+in user computer) is used.
+

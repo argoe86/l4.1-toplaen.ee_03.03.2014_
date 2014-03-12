@@ -1,0 +1,23 @@
+td.headerTxt { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  font-size: 20px;  font-style: normal;  font-variant: normal;  background-color: #F8F8FF;     }
+td.headerTxt B { font-style: normal;  color: Maroon;  font-size: 24px;   }
+td.headerTxt address { font-size: 9px;  font-family: Arial, sans-serif;  font-style: normal;  font-stretch: wider;  letter-spacing: 1px;  color: #DCDCDC;}
+td.footer { background-color: #FFD700; }
+td.footerTxt { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  font-size: 10px;  }
+td.blackBG { background-color: #A0522D; }
+
+td.footerTxt a:link { text-decoration: none; color:inherit;}
+td.footerTxt a:visited { text-decoration: none; color:inherit;}
+td.footerTxt a:hover { color:inherit;  background-color: #F5F5F5;  border-bottom: 1px solid Red;      }
+
+.nupp {border:1px solid black; font-family: MS Sans Serif, Sans Serif, Arial, sans-serif; font-size: 10px; font-weight: bold; color:white; background-color:navy;}
+.nuppDisabled {border: 1px solid Gray; font-family: MS Sans Serif, Sans Serif, Arial, sans-serif; font-size: 10px; font-weight: bold; color: #DCDCDC; background-color: Silver;}
+
+th {background-color: #4169E1; color: #F0F8FF; font-family: Verdana, Arial, sans-serif; font-size:11px; }
+
+td {font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 10px;}
+.msg { color: Green;  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  font-size: 14px;  font-weight: bold;  padding-top: 10px;  padding-bottom: 10px;  letter-spacing: 3px;       }
+.errmsg { color: Red;  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  font-size: 14px;  font-weight: bold;  padding-top: 10px;  padding-bottom: 10px;  letter-spacing: 3px;       }
+td.blHead {font-family: Verdana, Tahoma, Arial, sans-serif; font-size:12px; border-bottom: 2px solid blue;}
+.errMessage {font-family: Arial; font-size:12px; color:maroon;}
+
+form {padding:0px; margin:0px;}
